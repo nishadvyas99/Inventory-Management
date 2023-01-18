@@ -1,0 +1,46 @@
+Tue Nov 24 18:49:11 IST 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Nov 24 18:49:12 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-fa68-76a0-ffffaf208e6d 
+on database directory C:\Users\Lenovo\Desktop\college\sem7\Java\DB\login with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Lenovo/Desktop/college/sem7/JavaDB/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Lenovo\Desktop\college\sem7\JavaDB\db-derby-10.14.2.0-lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Lenovo\Desktop\college\sem7\Java\DB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 24 19:04:07 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a094c023-0175-fa68-76a0-ffffaf208e6d 
+on database directory C:\Users\Lenovo\Desktop\college\sem7\Java\DB\miniproject with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Lenovo/Desktop/college/sem7/JavaDB/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Lenovo\Desktop\college\sem7\JavaDB\db-derby-10.14.2.0-lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Lenovo\Desktop\college\sem7\Java\DB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 24 19:04:18 IST 2020:
+Shutting down instance a094c023-0175-fa68-76a0-ffffaf208e6d on database directory C:\Users\Lenovo\Desktop\college\sem7\Java\DB\miniproject with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Tue Nov 24 19:04:18 IST 2020 Thread[DRDAConnThread_4,5,main] (DATABASE = miniproject), (DRDAID = {3}), Database 'miniproject' shutdown.
+----------------------------------------------------------------
+Tue Nov 24 19:04:37 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance eaa980c4-0175-fa68-76a0-ffffaf208e6d 
+on database directory C:\Users\Lenovo\Desktop\college\sem7\Java\DB\miniproject with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Lenovo/Desktop/college/sem7/JavaDB/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Lenovo\Desktop\college\sem7\JavaDB\db-derby-10.14.2.0-lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Lenovo\Desktop\college\sem7\Java\DB
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 24 20:32:45 IST 2020: Shutting down Derby engine
